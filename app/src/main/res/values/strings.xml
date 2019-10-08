@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="info">CONVERSION BETWEEN DEGREE CELSIUS AND FAHRENHEIT</string>
+    <string name="hint">pls enter the value of temperature(C)</string>
+    <string name="button">Confirm</string>
+    <string name="result">Result</string>
+    <string name="team">TeamA</string>
+    <string name="team2">TeamB</string>
+    <string name="score">0</string>
+    <string name="add1">+3 POINTS</string>
+    <string name="add2">+2 POINTS</string>
+    <string name="add3">+1 POINTS</string>
+    <string name="reset">RESET</string>
+    <string name="rmb">Input RMB</string>
+    <string name="hello">Hello</string>
+    <string name="dollar">DOLLAR</string>
+    <string name="euro">EURO</string>
+    <string name="won">WON</string>
+    <string name="config">CONFIG</string>
+    <string name="save">SAVE</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+</resources>
